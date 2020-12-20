@@ -1,6 +1,7 @@
 
 ### Overview and Origin
 
+![Logo](etherisc_logo.png)
 
 * **Name of Company**
 > Decentralized Insurance Foundation
