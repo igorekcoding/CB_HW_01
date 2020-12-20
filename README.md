@@ -44,11 +44,11 @@ Example of AI in insurance: Shift Technology offers AI-based anti-claims-fraud d
 
 * **What are the other major comapnies in this domain?** 
 > The list of major companies:
-    1. State Farm (Market Share: 9.27%)
-    2. Berkshire Hathaway (Market Chare: 6.51%)
-    3. Progressive Group (Market Share: 5.54%)
-    4. Liberty Mutual (Market Share: 5.03%)
-    5. Allstate (Market Share: 4.95%)
+> * State Farm (Market Share: 9.27%)
+> * Berkshire Hathaway (Market Chare: 6.51%)
+> * Progressive Group (Market Share: 5.54%)
+> * Liberty Mutual (Market Share: 5.03%)
+> * Allstate (Market Share: 4.95%)
     
 ### Results
 
@@ -56,11 +56,11 @@ Example of AI in insurance: Shift Technology offers AI-based anti-claims-fraud d
 > The first demo product "Flight Delay Insurance" is availbe to use for developers. The product will be available to regular customers in 2021. 
 * **What are some of the core metrics that companies in this domain use to measure sucssess?** 
 > The core metrics in insurance industry are the following: 
-   1.Revenue per policy holder
-   2.Average cost per claim
-   3.Average time to settle a claim
-   4.Return on surplus
-   5.Loss Ratio
+> 1. Revenue per policy holder
+> 1. Average cost per claim
+> 1. Average time to settle a claim
+> 1. Return on surplus
+> 1. Loss Ratio
 
 * **How is your company performing relative to competitors in the same domain?** 
 > Currrently, it is hard to analyze Etherisc performace relative to competitiors because the product is in demo stage. 
@@ -70,7 +70,7 @@ Example of AI in insurance: Shift Technology offers AI-based anti-claims-fraud d
 * **If you were to advice the company, what products or services would you suggest they offer?** 
 > I would sugget that Etherisc start developing rental insurance or car insurance.
 
-* **Why do you think that offering this product or service would benefit the company?
+* **Why do you think that offering this product or service would benefit the company?***
 > The smartphone become smarter and more accessable to a lot of people. Collecting data and providing data to insurance is becoming less cubersome. Than is why I believe rental and car insurance should be next developt on Etherisc platform.  
 
 * **What techologies would this additional product or service utilize?** 
@@ -80,6 +80,8 @@ Example of AI in insurance: Shift Technology offers AI-based anti-claims-fraud d
 
 > The blockchain techonology is appropriate becasue it reduces the overhead cost of insurance company which will reduce insurance premium to the consumer. Aslo, the automation of a claim is possible with smartcontract techonoly only. Smartcontracts are an important piece of this techonology.  
 
-| Igor Sogursky | Etherisc |
+| Report      |  Etherisc   |
 | ----------- | ----------- |
-| Report | Etherisc|
+| Created by  | Igor Sogursky |
+
+> Source: [Etherisc.com](www.etherisc.com "Etherisc.com") , [Blog Etherisc](www.blog.etherisc.com) , [ICO Bench](www.icobench.com/ico/ehterisc) , [Insurance Business Mag](https://www.insurancebusinessmag.com/us/guides/these-are-the-top-25-propertycasualty-insurance-companies-in-the-us-32630.aspx) , [Board of Innovation](https://www.boardofinnovation.com/blog/trends-shaping-the-future-of-the-insurance-industry) , [Guidingmetrics](https://guidingmetrics.com/content/insurance-industrys-18-most-critical-metrics)
